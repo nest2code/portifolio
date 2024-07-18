@@ -15,23 +15,23 @@ const Experience = () => {
           <h2 className="text-4xl font-bold">Job Experience</h2>
         </div>
         <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
-          <ResumeCard
-            title="Sr. Software Engineer"
-            subTitle="Google Out Tech - (2017 - Present)"
-            result="USA"
-            des="Google's hiring process is an important part of our culture. Googlers care deeply about their teams and the people who make them up."
+         <ResumeCard
+            title="BSc in Computer Science"
+            subTitle="Ndejje University (2020 - 2023)"
+            result="3.90/4"
+            des="The training provided by universities in order to prepare people to work in various sectors of the economy or areas of culture."
           />
           <ResumeCard
-            title="Web Developer & Trainer"
-            subTitle="Apple Developer Team - (2012 - 2016)"
-            result="MALAYSIA"
-            des="A popular destination with a growing number of highly qualified homegrown graduates, it's true that securing a role in Malaysia isn't easy."
+            title="Advanced Level"
+            subTitle="St.Julian High School (2018 - 2019)"
+            result="16/20"
+            des="Higher education is tertiary education leading to award of a certificate."
           />
           <ResumeCard
-            title="Front-end Developer"
-            subTitle="Nike - (2020 - 2011)"
-            result="Oman"
-            des="The Oman economy has grown strongly over recent years, having transformed itself from a producer and innovation-based economy."
+            title="Secondary School Education (O'level)"
+            subTitle="St.Julian High School (2013 - 2017)"
+            result="18/54"
+            des="Join Secondary and received my ordinary level certificate of high school education."
           />
         </div>
       </div>
@@ -41,23 +41,23 @@ const Experience = () => {
           <h2 className="text-4xl font-bold">Trainer Experience</h2>
         </div>
         <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
-          <ResumeCard
-            title="Gym Instructor"
-            subTitle="Rainbow Gym Center (2015 - 2020)"
-            result="DHAKA"
-            des="The training provided by universities in order to prepare people to work in various sectors of the economy or areas of culture."
+        <ResumeCard
+            title="System Specialist"
+            subTitle="JAMII Systems - (2024 - Present)"
+            result="United Arab Emirates"
+            des="I monitor the systems and assist customers with different issues regarding to our systems"
           />
           <ResumeCard
-            title="Web Developer and Instructor"
-            subTitle="SuperKing College (2010 - 2014)"
-            result="CANADA"
-            des="Higher education is tertiary education leading to award of an academic degree. Higher education, also called post-secondary education."
+            title="System Specialist"
+            subTitle="Irshad Pest Control - (2012 - 2016)"
+            result="United Arab Emirates"
+            des="A popular destination with a growing number of highly qualified homegrown graduates, it's true that securing a role in Malaysia isn't easy."
           />
           <ResumeCard
-            title="School Teacher"
-            subTitle="Kingstar Secondary School (2001 - 2010)"
-            result="NEVADA"
-            des="Secondary education or post-primary education covers two phases on the International Standard Classification of Education scale."
+            title="IT System Officer"
+            subTitle="Airtel Uganda - (2022 - 2022)"
+            result="Uganda"
+            des="Worked at Airtel Uganda head office as an intern a period of two months."
           />
         </div>
       </div>
