@@ -32,7 +32,7 @@ const Education = () => {
             title="Secondary School Education (O'level)"
             subTitle="St.Julian High School (2013 - 2017)"
             result="First grade"
-            des="Join Secondary and received my ordinary level certificate of high school education."
+            des="Joined Secondary and received my ordinary level certificate of education."
           />
         </div>
       </div>
